@@ -1,0 +1,255 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cfdi:Comprobante xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:cfdi="http://www.sat.gob.mx/cfd/3" Version="3.3" Serie="FP" Folio="52848228" Fecha="2020-03-02T18:09:13" Sello="RM+zlzfolsEPu6FdrlXQU4X2VSGI+Jdz/1QkxmmBpml9ugmeZ3GusVC1c3S/cT1Jr4BloLi+Zq7hhZ9HML576CMnyM66s5hk5jsNUANMpz1qbsDdC0X3JlotlsBp3xhHBKUl6rc+Vuv6KDtj5yWWRqq+AHb62u/PKm0KnNp7j1OqWHB4KX2lg+KbQbm3KXoehq7OzE/Kq2kK7pu4skF8OYyN31PWDf4G/xfklOYSyPI506bGdGddZ/afxu5CUQFs8ao61xPW7XfRykZDUx9epGccTxHH74AEXh/IWVEE58loNL6qPHbCp3g+cF12kvTNx3yyC99/ZPUHUHmR5ih3tA==" FormaPago="01" NoCertificado="00001000000406396548" Certificado="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" CondicionesDePago="CONTADO" SubTotal="1179.08" Descuento="0.00" Moneda="MXN" TipoCambio="1" Total="1271.74" TipoDeComprobante="I" MetodoPago="PUE" LugarExpedicion="24070" xsi:schemaLocation="http://www.sat.gob.mx/cfd/3 http://www.sat.gob.mx/sitio_internet/cfd/3/cfdv33.xsd">
+  <cfdi:Emisor Rfc="CPM110719SG3" Nombre="COMERCIALIZADORA PEPSICO MEXICO S DE RL DE CV" RegimenFiscal="601" />
+  <cfdi:Receptor Rfc="RATJ960917TS7" Nombre="RAMIREZ TEJEDA JOSMAR JARED" UsoCFDI="G01" />
+  <cfdi:Conceptos>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011142299" Cantidad="4" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CRUJITOS QUES POP SF 43GRX50X1" ValorUnitario="7.93" Importe="31.72" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.72" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.54" />
+          <cfdi:Traslado Base="34.26" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478018512" Cantidad="10" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="DORITOS DINAMITA TR 65GRX5X8" ValorUnitario="7.93" Importe="79.30" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="79.30" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="6.34" />
+          <cfdi:Traslado Base="85.64" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011112254" Cantidad="7" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="FRITOS CHORI PRA GD 57GRX36X1" ValorUnitario="7.93" Importe="55.51" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="55.51" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="4.44" />
+          <cfdi:Traslado Base="59.95" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011145764" Cantidad="3" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHURRUMAIS FLAMA PRA 64GRX36X1" ValorUnitario="6.34" Importe="19.02" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19.02" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.52" />
+          <cfdi:Traslado Base="20.54" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011165618" Cantidad="2" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="FRITOS SAL PRA GD 57GRX36X1" ValorUnitario="7.93" Importe="15.86" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="15.86" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.27" />
+          <cfdi:Traslado Base="17.13" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478014606" Cantidad="6" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHEETOS POFF REV PRB 41GRX50X1" ValorUnitario="6.34" Importe="38.04" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="38.04" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.04" />
+          <cfdi:Traslado Base="41.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011143586" Cantidad="15" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHEETOS TOR GU PRA 55GRX70X1" ValorUnitario="6.34" Importe="95.10" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="95.10" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="7.61" />
+          <cfdi:Traslado Base="102.71" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011143753" Cantidad="10" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHEETOS XFH GUPRB 55GRX70X1" ValorUnitario="6.34" Importe="63.40" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="63.40" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="5.07" />
+          <cfdi:Traslado Base="68.47" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011130272" Cantidad="2" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="DORITOS XTRA FH GU 61GRX50X1" ValorUnitario="9.51" Importe="19.02" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19.02" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.52" />
+          <cfdi:Traslado Base="20.54" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011143999" Cantidad="15" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHEETOS NACHO GUPRA 55GRX70X1" ValorUnitario="6.34" Importe="95.10" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="95.10" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="7.61" />
+          <cfdi:Traslado Base="102.71" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478015047" Cantidad="1" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHEETOS BOL REV PRB 45GRX50X1" ValorUnitario="6.34" Importe="6.34" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="6.34" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="0.51" />
+          <cfdi:Traslado Base="6.85" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011114623" Cantidad="5" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="PAKETAXO QUE GU TR 73GRX5X5" ValorUnitario="9.51" Importe="47.55" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="47.55" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.80" />
+          <cfdi:Traslado Base="51.35" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011155343" Cantidad="3" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHEE PALO POP PP PRB 29GRX54X1" ValorUnitario="6.34" Importe="19.02" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="19.02" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.52" />
+          <cfdi:Traslado Base="20.54" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011151079" Cantidad="2" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHICHARRON CERDO ALF 30GRX48X1" ValorUnitario="10.27" Importe="20.54" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="20.54" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011149205" Cantidad="4" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="SABRITONES60GRX16X1" ValorUnitario="7.93" Importe="31.72" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="31.72" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.54" />
+          <cfdi:Traslado Base="34.26" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011123588" Cantidad="4" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="DORITOS NACHO PRM 58GRX50X1" ValorUnitario="9.51" Importe="38.04" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="38.04" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.04" />
+          <cfdi:Traslado Base="41.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011101456" Cantidad="5" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="SABRITAS SAL GU PR2 45GRX50X1" ValorUnitario="9.51" Importe="47.55" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="47.55" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.80" />
+          <cfdi:Traslado Base="51.35" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011101463" Cantidad="4" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="SABRITAS ADOB GUWPPR2 45GX50X1" ValorUnitario="9.51" Importe="38.04" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="38.04" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.04" />
+          <cfdi:Traslado Base="41.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011101678" Cantidad="4" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="SABRITAS LIM GU PWPR1 45GX50X1" ValorUnitario="9.51" Importe="38.04" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="38.04" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.04" />
+          <cfdi:Traslado Base="41.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011143739" Cantidad="6" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="SABRITAS FH GU PR2 45GRX50X1" ValorUnitario="9.51" Importe="57.06" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="57.06" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="4.56" />
+          <cfdi:Traslado Base="61.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011118119" Cantidad="4" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="SABRITAS CYE GUPWPPR2 45GX50X1" ValorUnitario="9.51" Importe="38.04" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="38.04" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.04" />
+          <cfdi:Traslado Base="41.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7501011114524" Cantidad="10" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="RUFFLE QUESO PWP PRB 50GRX50X1" ValorUnitario="9.51" Importe="95.10" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="95.10" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="7.61" />
+          <cfdi:Traslado Base="102.71" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478006175" Cantidad="2" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="CHEETOS XTRA FLAM 115GRX24X1" ValorUnitario="11.86" Importe="23.72" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23.72" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.90" />
+          <cfdi:Traslado Base="25.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478006199" Cantidad="1" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="KACANG FH 135GRX40X1" ValorUnitario="11.85" Importe="11.85" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11.85" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="0.95" />
+          <cfdi:Traslado Base="12.80" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478007622" Cantidad="2" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="SABRITAS SAL 68GRX24X1" ValorUnitario="11.86" Importe="23.72" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23.72" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.90" />
+          <cfdi:Traslado Base="25.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478007950" Cantidad="4" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="RUFFLES SAL TR PRB 50GRX50X1" ValorUnitario="9.51" Importe="38.04" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="38.04" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="3.04" />
+          <cfdi:Traslado Base="41.08" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478007967" Cantidad="3" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="RUFFLES MCSROJA TRPRA 50GX50X1" ValorUnitario="9.51" Importe="28.53" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="28.53" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.28" />
+          <cfdi:Traslado Base="30.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478007974" Cantidad="3" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="RUFFLES MC JAL TRPRA 50GX50X1" ValorUnitario="9.51" Importe="28.53" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="28.53" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="2.28" />
+          <cfdi:Traslado Base="30.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478008025" Cantidad="2" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="DORITOS NACHO PWP 100GRX24X1" ValorUnitario="11.86" Importe="23.72" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="23.72" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="1.90" />
+          <cfdi:Traslado Base="25.62" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+    <cfdi:Concepto ClaveProdServ="50192100" NoIdentificacion="7500478008032" Cantidad="1" ClaveUnidad="EA" Unidad="PIEZA" Descripcion="RUFFLES QUESO JUMBO 82GRX24X1" ValorUnitario="11.86" Importe="11.86" Descuento="0.00">
+      <cfdi:Impuestos>
+        <cfdi:Traslados>
+          <cfdi:Traslado Base="11.86" Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="0.95" />
+          <cfdi:Traslado Base="12.81" Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+        </cfdi:Traslados>
+      </cfdi:Impuestos>
+    </cfdi:Concepto>
+  </cfdi:Conceptos>
+  <cfdi:Impuestos TotalImpuestosTrasladados="92.66">
+    <cfdi:Traslados>
+      <cfdi:Traslado Impuesto="002" TipoFactor="Tasa" TasaOCuota="0.000000" Importe="0.00" />
+      <cfdi:Traslado Impuesto="003" TipoFactor="Tasa" TasaOCuota="0.080000" Importe="92.66" />
+    </cfdi:Traslados>
+  </cfdi:Impuestos>
+  <cfdi:Complemento>
+    <tfd:TimbreFiscalDigital Version="1.1" UUID="2b16e6aa-84ca-4094-b339-bef5b1aedb13" FechaTimbrado="2020-03-02T18:11:51" RfcProvCertif="MIS1112095W0" SelloCFD="RM+zlzfolsEPu6FdrlXQU4X2VSGI+Jdz/1QkxmmBpml9ugmeZ3GusVC1c3S/cT1Jr4BloLi+Zq7hhZ9HML576CMnyM66s5hk5jsNUANMpz1qbsDdC0X3JlotlsBp3xhHBKUl6rc+Vuv6KDtj5yWWRqq+AHb62u/PKm0KnNp7j1OqWHB4KX2lg+KbQbm3KXoehq7OzE/Kq2kK7pu4skF8OYyN31PWDf4G/xfklOYSyPI506bGdGddZ/afxu5CUQFs8ao61xPW7XfRykZDUx9epGccTxHH74AEXh/IWVEE58loNL6qPHbCp3g+cF12kvTNx3yyC99/ZPUHUHmR5ih3tA==" NoCertificadoSAT="00001000000404399419" SelloSAT="W5RV6X1bV4KF/VGlrOkA9du0qlI38JhrtIsQrTMrNKA6Frp8wJssQsE0sfh79U5AFPexiogZtfDr2NEMendEWu/0K7VVJILJoDxEjCOheyuD4yVd/H4h8qGY4oMMKTywjJSeQKrNL0Ukql0zsZfrCr6SzkikOTBK5YEvoXLGt0p8DwfKWoMyDpIvXy1UvxBGcrc+6CPjS2FkPgdErKUX9x2gPedzPvjb4Ss7x+VSYucPlIwib8tm0QRMT98G+1gGlKp9wPl5IsN3odT22W6243Mm7aaDeg3h/ROnx1bxUDNAWbdfPMCOFHnQsNKw6y8EqS8PDkcm5ZQ6dH5sf4loJw==" xmlns:tfd="http://www.sat.gob.mx/TimbreFiscalDigital" xsi:schemaLocation="http://www.sat.gob.mx/TimbreFiscalDigital http://www.sat.gob.mx/sitio_internet/cfd/timbrefiscaldigital/TimbreFiscalDigitalv11.xsd" />
+  </cfdi:Complemento>
+</cfdi:Comprobante>
